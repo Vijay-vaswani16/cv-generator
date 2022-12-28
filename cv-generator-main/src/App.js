@@ -6,8 +6,8 @@ function App() {
   const [name, setName] = useState('Vijay Vaswani');
   const [phone, setPhone] = useState('1231231234');
   const [email, setEmail] = useState('email@gmail.com');
-  const [github, setGithub] = useState('https://github.com/TMahato');
-  const [linkedin, setLinkedin] = useState('https://www.linkedin.com/in/tanmay-mahato-2aaa25201/');
+  const [github, setGithub] = useState('https://github.com/Vijay-Vaswani16');
+  const [linkedin, setLinkedin] = useState('https://www.linkedin.com/in/vijay-vaswani-18398a204/');
   const [skillNum, setSkillNum] = useState(2);
   const [projectNum, setProjectNum] = useState(2);
   const [experienceNum, setExperienceNum] = useState(2);
